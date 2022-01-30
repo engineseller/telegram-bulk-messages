@@ -1,4 +1,4 @@
-# WhatsApp Bulk Messages
+# Telegram Bulk Messages
 Send Bulk Telegram Messages to your list of contacts. Once you have add username to receiver.xlsx to send the messages.
 
 ## How to use?
